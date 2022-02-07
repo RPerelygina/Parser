@@ -1,0 +1,17 @@
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.exe
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.deps.json
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.runtimeconfig.json
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.dll
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\ref\Parsing.dll
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\Parsing.pdb
+C:\Users\Sibik\source\repos\Parsing\Parsing\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.AssemblyReference.cache
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfoInputs.cache
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.AssemblyInfo.cs
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.CoreCompileInputs.cache
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.csproj.CopyComplete
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.dll
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\ref\Parsing.dll
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.pdb
+C:\Users\Sibik\source\repos\Parsing\Parsing\obj\Debug\net6.0\Parsing.genruntimeconfig.cache

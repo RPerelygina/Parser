@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ie9Hjc+1W78LSDadXlEuRjuEWziHa4pe4nKYt36THNNQY9EfnH3Y1zUYoA3DkT+El591Xi0EtgeszWTOIagLFQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sibik\\source\\repos\\Parsing\\Parsing\\Parsing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sibik\\.nuget\\packages\\htmlagilitypack\\1.11.39\\htmlagilitypack.1.11.39.nupkg.sha512"
+  ],
+  "logs": []
+}
